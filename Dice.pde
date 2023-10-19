@@ -42,7 +42,6 @@ class Die
   {
     for (int i=0; i<=16;i++){
         dotsValue=dnums+dotsValue;
-        System.out.print(dotsValue);
     }
   }
   void show() {
